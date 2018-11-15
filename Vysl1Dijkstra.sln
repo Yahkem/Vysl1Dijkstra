@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vysl1Dijkstra", "Vysl1Dijkstra\Vysl1Dijkstra.csproj", "{8203AEBA-97B8-4156-A925-25639065DEF1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8203AEBA-97B8-4156-A925-25639065DEF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8203AEBA-97B8-4156-A925-25639065DEF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8203AEBA-97B8-4156-A925-25639065DEF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8203AEBA-97B8-4156-A925-25639065DEF1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {261EDAA1-8995-4C77-99A6-E1579C025C67}
+	EndGlobalSection
+EndGlobal
